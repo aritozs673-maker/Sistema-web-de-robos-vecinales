@@ -36,3 +36,4 @@
 .mapboxgl-popup-content{line-height:1.5;color:#172b4f}
 .mapboxgl-popup-content p{margin:7px 0;max-width:250px;overflow-wrap:anywhere}
 @media(max-width:640px){.map-pick-card{bottom:8px;left:8px;max-width:calc(100% - 16px)}.incident-map-pin{width:43px;height:43px;font-size:21px}}
+
