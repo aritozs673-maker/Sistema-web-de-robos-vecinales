@@ -58,7 +58,7 @@
 - Verificar el almacenamiento y la privacidad de la información.
 
 ---
-
+ 
 ## HU-34 — Consultar historial de alertas atendidas
 
 **Como:** Policía.  
