@@ -38,3 +38,4 @@ Se activan las automatizaciones: issue cerrado → *Hecho*; PR abierto → *En r
 
 ## 5. Definición de "terminado" (contrato de equipo)
 Entregado a tiempo · cumple la HU · revisado por otro integrante · funciona integrado · problemas comunicados antes de la fecha.
+
