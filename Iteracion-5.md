@@ -86,3 +86,4 @@
 ## Entregable de la iteración
 
 Módulo de acceso policial y administración de cuentas, con permisos diferenciados para Vecino, Policía y Administrador.
+
