@@ -60,4 +60,4 @@ Desde su panel registra, activa o desactiva cuentas de policía, administra rete
 | "Acceso denegado" | Tu rol no tiene permiso para esa pantalla. |
 | El mapa no carga | Revisa tu conexión; sin token de Mapbox se muestra una vista alternativa. |
 
-> 📸 Agregar capturas en `docs/capturas/` y enlazarlas en cada sección antes de la exposición.
+
