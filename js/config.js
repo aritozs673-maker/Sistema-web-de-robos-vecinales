@@ -9,3 +9,4 @@ window.APP_CONFIG = {
   SUPABASE_ANON_KEY: 'sb_publishable_MMLdWewuB4bM_dMWRpSKpw_yoecTDXO',
   MAPBOX_TOKEN: 'pk.eyJ1IjoicGFibG9vb29vMTIiLCJhIjoiY21tNjl3YW5lMGc3MzJzcTI3YXZ5enB4ciJ9.Yh-MxS0ySmk6loRvMXbAiQ'
 };
+
