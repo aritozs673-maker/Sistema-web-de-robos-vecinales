@@ -51,3 +51,4 @@ No deben publicarse credenciales, contraseñas ni claves privadas. Antes de inte
 ## 8. Revisión y mantenimiento
 
 Antes de integrar una modificación, se debe revisar el código, comprobar su funcionamiento y actualizar la documentación afectada.
+
