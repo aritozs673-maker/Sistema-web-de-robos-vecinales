@@ -1,6 +1,6 @@
 # Iteración 1: Autenticación y Gestión de Usuarios
 
-> ** Sistema base con cuentas de usuario, autenticación segura , recuperación de contraseña por correo, gestión de perfiles y control de sesiones.
+**Sistema base con cuentas de usuario, autenticación segura , recuperación de contraseña por correo, gestión de perfiles y control de sesiones.
 
 ## HU-01 — Registrar usuario
 
