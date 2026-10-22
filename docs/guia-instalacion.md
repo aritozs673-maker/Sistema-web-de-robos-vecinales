@@ -115,3 +115,4 @@ alerta_comunitaria/
 - Habilitar Realtime para `public.incidents` en Supabase Database > Publications > supabase_realtime si aún no está habilitado.
 - Precisión: GPS no garantiza coordenadas exactas, y el punto de incidente es una selección humana en el mapa.
 - Evidencia: bucket público de demostración; no usar con datos sensibles. Para producción usar bucket privado y URLs firmadas.
+
