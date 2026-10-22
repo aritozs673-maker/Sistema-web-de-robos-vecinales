@@ -29,3 +29,4 @@
 - ¿Cómo se decide la versión (SemVer)?
 - ¿Cómo protegen las claves del proyecto?
 - ¿Cómo garantizan que alguien revise el código?
+
