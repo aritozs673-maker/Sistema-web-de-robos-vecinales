@@ -105,6 +105,7 @@
 - Diferenciar visualmente las zonas con mayor cantidad de reportes.
 - Verificar que el mapa utilice los datos almacenados en el sistema.
 
+
 ---
 
 ## Entregable de la iteración
