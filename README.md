@@ -61,9 +61,6 @@ Sistema-web-de-robos-vecinales/
 `main` (estable, versiones) ← `develop` (integración) ← `feature/HU-XX-nombre` (una por historia).
 Todo cambio entra por **Pull Request** con al menos 1 revisión. Detalle en [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
-## 🏷️ Versiones
-Ver [`CHANGELOG.md`](CHANGELOG.md) y la sección *Releases* del repositorio.
-
 ## 📚 Documentación
 - [Manual de usuario](docs/manual-de-usuario.md)
 - [Gestión del proyecto: ramas, issues y tablero](docs/gestion-del-proyecto.md)
