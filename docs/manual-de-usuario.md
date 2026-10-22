@@ -59,5 +59,3 @@ Desde su panel registra, activa o desactiva cuentas de policía, administra rete
 | No aparece mi ubicación | Permite la ubicación en el candado de la barra de direcciones y recarga. |
 | "Acceso denegado" | Tu rol no tiene permiso para esa pantalla. |
 | El mapa no carga | Revisa tu conexión; sin token de Mapbox se muestra una vista alternativa. |
-
-
