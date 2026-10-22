@@ -65,3 +65,4 @@ FROM public.incidents ORDER BY created_at DESC;
 - Para notificaciones con la app Android cerrada es necesaria una integración adicional con FCM; el módulo anterior de avisos en primer plano se conserva.
 - El almacenamiento de imágenes del proyecto previo debe revisarse antes de publicar una app real; no subas datos sensibles al bucket público de demostración.
 - Ejecutar el SQL es imprescindible: sin `incident_responses`, los estados del incidente pueden cambiar, pero el seguimiento de agentes fallará.
+
