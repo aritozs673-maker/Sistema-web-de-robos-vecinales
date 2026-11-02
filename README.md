@@ -30,6 +30,20 @@ La seguridad vecinal depende de llamadas y grupos de mensajería: no hay ubicaci
 - **Ilustraciones propias** (`img/`) y fotos opcionales (`img/photos/`).
 - **Edge Function** `admin-create-police` para crear cuentas policiales de forma segura.
 
+## 📱 Descarga la app (Android)
+Además de la versión web, AlertaVecinal cuenta con una app para Android, gratuita. Escanea el código QR con la cámara de tu celular:
+
+<p align="center">
+  <img src="img/afiche-descarga-app.png" alt="Afiche: descarga la app AlertaVecinal para Android escaneando el código QR" width="360">
+</p>
+
+1. Escanea el código y descarga el archivo.
+2. Ábrelo y permite «instalar apps desconocidas».
+3. Si Play Protect avisa: «Instalar de todas formas».
+4. Inicia sesión y permite la ubicación «todo el tiempo».
+
+Código fuente de la app: [DenisTae/alertavecinal-app](https://github.com/DenisTae/alertavecinal-app)
+
 ## 🧰 Tecnologías
 HTML5 · CSS3 · JavaScript · Supabase (Auth, PostgreSQL, Realtime, Storage, Edge Functions) · Mapbox GL · GitHub Pages · Git/GitHub
 
@@ -46,8 +60,9 @@ Sistema-web-de-robos-vecinales/
 │   ├── enhancements.js       # Mejoras: cercanía, silencio, ruta, tiempo real
 │   ├── futuro.js             # Funciones avanzadas de interfaz
 │   └── config.js             # Claves PÚBLICAS (Supabase / Mapbox)
-├── img/                      # Ilustraciones SVG
-│   └── photos/               # Fotos reales opcionales
+├── img/                      # Ilustraciones SVG y afiche de descarga
+│   ├── afiche-descarga-app.png  # Afiche con QR de la app Android
+│   └── photos/               # Fotos reales opcionales (ver LEEME.txt)
 ├── supabase/                 # Base de datos
 │   ├── schema.sql
 │   ├── upgrade_location_media.sql
