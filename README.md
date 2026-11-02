@@ -64,7 +64,6 @@ Sistema-web-de-robos-vecinales/
 │   ├── guion-exposicion.md
 │   └── capturas/
 ├── CONTRIBUTING.md           # Flujo de trabajo del equipo
-├── .gitignore
 └── README.md
 ```
 > `index.html`, `css/`, `js/` e `img/` se mantienen en la raíz porque GitHub Pages publica desde allí.
