@@ -108,3 +108,4 @@ Todo cambio entra por **Pull Request** con al menos 1 revisión. Detalle en [`CO
 - [Gestión del proyecto: ramas, issues y tablero](docs/gestion-del-proyecto.md)
 - [Historias de usuario](docs/Historias_de_usuario.docx)
 - [Guion de exposición](docs/guion-exposicion.md)
+- 
